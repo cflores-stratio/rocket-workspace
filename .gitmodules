@@ -1,0 +1,20 @@
+[submodule "rocket-core"]
+	path = rocket-core
+	url = https://github.com/stratio/rocket-core.git
+
+[submodule "rocket-driver"]
+	path = rocket-driver
+	url = https://github.com/stratio/rocket-driver.git
+
+[submodule "rocket-api"]
+	path = rocket-api
+	url = https://github.com/stratio/rocket-api.git
+
+[submodule "rocket-ui"]
+	path = rocket-ui
+	url = https://github.com/stratio/rocket-ui.git
+
+[submodule "rocket-plugins"]
+        path = rocket-plugins
+        url = https://github.com/stratio/rocket-plugins.git
+
