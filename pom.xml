@@ -11,7 +11,7 @@
     <modules>
 	    <module>rocket-core</module>
 	    <module>rocket-api</module>
-	    <module>rocket-ui</module>
+<!--	    <module>rocket-ui</module>-->
 <!--	    <module>rocket-plugins</module>-->
 	    <module>rocket-driver</module>
     </modules>
