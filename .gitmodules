@@ -16,8 +16,10 @@
 [submodule "rocket-ui"]
 	path = rocket-ui
 	url = https://github.com/stratio/rocket-ui.git
+	branch = master
 
 [submodule "rocket-plugins"]
-        path = rocket-plugins
-        url = https://github.com/stratio/rocket-plugins.git
+	path = rocket-plugins
+	url = https://github.com/stratio/rocket-plugins.git
+	branch = master
 
